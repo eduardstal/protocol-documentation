@@ -10,6 +10,7 @@
 * [Asset Creation](asset/creating-an-asset.md)
 * [Token Factories](asset/token-factories.md)
 * [Setting Up Royalties on an External Collection](asset/royalties-on-a-external-collection.md)
+* [Rarible NFT royalties in your custom smart contract](asset/rarible-NFT-royalties-in-custom-smart-contract.md)
 * [Royalties Schema](asset/royalties-schema.md)
 * [Asset Discovery](asset/asset-discovery.md)
 
